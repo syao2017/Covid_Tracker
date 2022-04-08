@@ -1,6 +1,4 @@
-﻿"Title: COVID-19 Vaccines Delivered and Administered | KFF"
-"Timeframe: as of 2/24"
-"Location","Total COVID-19 Vaccines Delivered","Total COVID-19 Vaccines Administered","Share of Delivered Vaccines That Have Been Administered","Number of People Who Have Been Vaccinated with At Least One Dose","Share of Population Vaccinated with At Least One Dose","Number of People Who Have Been Fully Vaccinated","Share of Population Fully Vaccinated"
+﻿"Location","Total COVID-19 Vaccines Delivered","Total COVID-19 Vaccines Administered","Share of Delivered Vaccines That Have Been Administered","Number of People Who Have Been Vaccinated with At Least One Dose","Share of Population Vaccinated with At Least One Dose","Number of People Who Have Been Fully Vaccinated","Share of Population Fully Vaccinated"
 "United States","688,186,745","551,855,907","0.802","253,307,984","0.763","215,253,201","0.648"
 "Alabama","9,229,440","6,087,103","0.66","3,031,464","0.618","2,459,363","0.502"
 "Alaska","1,436,865","1,093,808","0.761","500,864","0.685","445,530","0.609"
@@ -61,22 +59,5 @@
 "Puerto Rico","7267790","6,895,718","0.94881","3037979","0.95","2594790","0.812"
 "Republic of Palau","43990","46,408","1.05497","20228","0.939","17826","0.828"
 "Virgin Islands","145460","139,733","0.96063","67425","0.634","55901","0.526"
-
-"Notes"
-"Data represent the total number of COVID-19 vaccines delivered and administered in each state and territory."
-""
-"U.S. total includes vaccines distributed to and administered by Indian Health Services, Veterans Health, the Bureau of Prisons, and the Department of Defense."
-
-"Sources"
-"Centers for Disease Control and Prevention, [COVID-19 Vaccinations in the United States](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)."
-""
-"2020 Population data from Annual Population Estimates by State, U.S. Census Bureau; available [here](https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates.html)."
-
-"Definitions"
-"*Vaccines delivered* are cumulative counts of COVID-19 vaccine doses reported to Operation Warp Speed as delivered since December 14, 2020. Doses distributed to the U.S. Virgin Islands, Palau, Micronesia, Marshall Islands, Guam, American Samoa, and Northern Marianas Islands include those marked as shipped in in CDC’s Vaccine Tracking System (VTrckS) since December 13, 2020. Doses distributed to a state or territory also include those distributed to pharmacies in the jurisdiction."
-""
-"*Vaccines administered* are cumulative counts of individual COVID-19 vaccine doses administered as reported to CDC by state, territory, and local public health agencies since December 14, 2020.  They include both first and second doses."
-""
-"*Number of people who have been vaccinated* represents the total number of people who have received at least one dose of vaccine."
 
 
