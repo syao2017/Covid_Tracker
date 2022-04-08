@@ -1,5 +1,3 @@
-KFF - Custom State Reports
-
 "","United States","Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Dist. of Columbia","Florida","Georgia","Hawaii","Idaho","Illinois","Iowa","Indiana","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York","North Carolina","North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont","Virginia","Washington","West Virginia","Wisconsin","Wyoming"
 "Cumulative COVID-19 Cases and Deaths, as of 2/24",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Number of COVID-19 Cases","78,798,989","1,276,580","237,754","1,973,479","817,798","8,946,146","1,309,778","721,954","256,207","134,214","5,818,706","2,461,103","235,124","421,587","3,024,663","748,057","1,679,591","764,957","1,270,258","1,161,957","224,048","999,890","1,668,242","2,350,468","1,411,593","788,479","1,399,180","265,177","453,522","679,715","296,870","2,161,190","510,330","4,917,723","2,578,517","237,599","2,649,692","1,018,328","691,337","2,751,629","355,294","1,458,075","235,654","1,999,965","6,600,661","921,531","111,794","1,634,851","1,414,222","487,446","1,569,673","154,797"
@@ -24,28 +22,3 @@ KFF - Custom State Reports
 "Share of Population Vaccinated with At Least One Dose","76.3%","61.8%","68.5%","71.3%","65.7%","81.7%","78.3%","93.8%","81.6%","95.0%","78.0%","64.3%","86.1%","60.2%","76.0%","67.2%","60.6%","73.3%","65.2%","60.0%","89.2%","84.7%","95.0%","66.0%","74.3%","58.7%","65.3%","64.4%","69.3%","73.9%","95.0%","88.9%","85.9%","88.8%","82.2%","64.4%","62.8%","69.9%","76.9%","83.2%","95.0%","66.4%","74.8%","61.3%","70.8%","71.2%","92.8%","84.4%","79.7%","64.1%","71.0%","57.9%"
 "Number of People Who Have Been Fully Vaccinated","215,253,201","2,459,363","445,530","4,364,444","1,612,690","27,773,615","3,980,992","2,771,081","656,886","503,427","14,140,484","5,684,843","1,091,528","947,620","8,535,116","1,925,828","3,633,484","1,748,742","2,518,865","2,437,569","1,052,865","4,467,987","5,347,614","5,906,732","3,839,758","1,513,239","3,378,567","597,260","1,207,389","1,835,909","949,182","6,584,250","1,458,010","14,667,298","6,214,836","414,566","6,724,932","2,214,720","2,892,814","8,559,178","853,229","2,870,932","528,863","3,654,266","17,374,227","2,027,921","499,883","6,135,445","5,431,648","1,016,453","3,754,939","292,555"
 "Share of Population Fully Vaccinated","64.8%","50.2%","60.9%","60.0%","53.4%","70.3%","69.1%","77.7%","67.5%","71.3%","65.8%","53.5%","77.1%","53.0%","67.4%","61.0%","54.0%","60.0%","56.4%","52.4%","78.3%","73.9%","77.6%","59.1%","68.1%","50.8%","55.0%","55.9%","62.4%","59.6%","69.8%","74.1%","69.5%","75.4%","59.3%","54.4%","57.5%","56.0%","68.6%","66.9%","80.5%","55.8%","59.8%","53.5%","59.9%","63.3%","80.1%","71.9%","71.3%","56.7%","64.5%","50.5%"
-
-
-"Footnotes, Notes, Sources & Definitions"
-
-"Cumulative COVID-19 Cases and Deaths"
-"Footnotes"
-"United States: US total includes territories and the 152 cases and 3 deaths from the Grand Princess and Diamond Princess cruise ships."
-"Notes"
-"Data source may be updated more regularly. For most current data, see [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://coronavirus.jhu.edu/map.html)."
-"Sources"
-"Johns Hopkins University, [COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE)](https://coronavirus.jhu.edu/map.html). 2020 Population data from Annual Population Estimates by State, U.S. Census Bureau; available [here](https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates.html)."
-
-"Daily COVID-19 Cases and Deaths"
-"Notes"
-"Data source may be updated more regularly. For most current data, see [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://coronavirus.jhu.edu/map.html). As of July 2021, many states report their COVID-19 metrics on a weekly basis rather than daily."
-"Sources"
-"Johns Hopkins University, [COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE)](https://coronavirus.jhu.edu/map.html). 2020 Population data from Annual Population Estimates by State, U.S. Census Bureau; available [here](https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates.html)."
-
-"COVID-19 Vaccines Delivered and Administered"
-"Notes"
-"Data represent the total number of COVID-19 vaccines delivered and administered in each state and territory. U.S. total includes vaccines distributed to and administered by Indian Health Services, Veterans Health, the Bureau of Prisons, and the Department of Defense. "
-"Sources"
-"Centers for Disease Control and Prevention, [COVID-19 Vaccinations in the United States](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc). 2020 Population data from Annual Population Estimates by State, U.S. Census Bureau; available [here](https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates.html)."
-"Definitions"
-"*Vaccines delivered* are cumulative counts of COVID-19 vaccine doses reported to Operation Warp Speed as delivered since December 14, 2020. Doses distributed to the U.S. Virgin Islands, Palau, Micronesia, Marshall Islands, Guam, American Samoa, and Northern Marianas Islands include those marked as shipped in in CDC’s Vaccine Tracking System (VTrckS) since December 13, 2020. Doses distributed to a state or territory also include those distributed to pharmacies in the jurisdiction. *Vaccines administered* are cumulative counts of individual COVID-19 vaccine doses administered as reported to CDC by state, territory, and local public health agencies since December 14, 2020.  They include both first and second doses. *Number of people who have been vaccinated* represents the total number of people who have received at least one dose of vaccine."
