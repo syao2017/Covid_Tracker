@@ -1,6 +1,4 @@
-﻿"Title: State COVID-19 Data and Policy Actions – Policy Actions | KFF"
-"Timeframe: 2018"
-"Location","Total Hospital Beds","Hospital Beds per 10,000 Population","ICU Beds","ICU Beds per 10,000 Population","Total CHCs","CHC Service Delivery Sites",Footnotes
+﻿"Location","Total Hospital Beds","Hospital Beds per 10,000 Population","ICU Beds","ICU Beds per 10,000 Population","Total CHCs","CHC Service Delivery Sites",Footnotes
 "United States","749728","23.5","85247","2.7","1331","11606"
 "Alabama","15035","31.6","1870","3.9","15","144"
 "Alaska","1604","22.6","130","1.8","27","193"
@@ -53,17 +51,3 @@
 "West Virginia","6382","36.4","643","3.7","27","342"
 "Wisconsin","12589","22.2","1506","2.7","17","143"
 "Wyoming","1929","34.4","102","1.8","6","14"
-"Notes"
-"ICU Beds data include coronary, trauma, surgical, burn, and general ICU beds in community and non-Federal hospitals. Figures may not sum to totals due to rounding."
-""
-"For purposes of these data, Community Health Centers (CHCs) include Federally-Qualified Health Centers (FQHCs), which meet federal health center requirements and receive federal grants under Section 330 of the Public Health Service Act. Other community health centers known as ""look-alikes,"" which also meet federal health center requirements but do not receive Section 330 grants, are not included. There are approximately 100 look-alikes nationwide."
-
-"Sources"
-"Hospital Beds: KFF analysis of merged American Hospital Directory and 2018 AHA Annual Survey data. "
-""
-"Population data from Annual Population Estimates by State, U.S. Census Bureau; available at [http://www.census.gov/popest/](http://www.census.gov/popest/)."
-""
-"Community Health Centers: [Key Health Center Data by State, Federally-Funded Health Centers Only: 2018](http://www.nachc.org/wp-content/uploads/2019/07/Key-Facts-By-State-2018-UDS-1.pdf)"
-
-
-
